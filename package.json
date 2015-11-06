@@ -1,0 +1,25 @@
+{
+    "name": "one-dark-material-theme",
+    "title": "One Dark Material Theme",
+    "description": "One Drak Material Theme for Brackets",
+    "version": "1.0.0",
+    "author": "Gabriel",
+    "homepage": "https://github.com/GhostThrone/brackets-one-dark-material-theme",
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/GhostThrone/brackets-one-dark-material-theme"
+    },
+    "keywords": [
+        "dark",
+        "material",
+        "theme",
+        "one",
+        "extension",
+        "brackets"
+    ],
+    "theme": {
+        "file": "theme/theme.less",
+        "dark": true,
+        "addModeClass": true
+    }
+}
